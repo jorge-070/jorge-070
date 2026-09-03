@@ -1,4 +1,4 @@
-# 👋 Hola Soy Nathael
+# 👋 Hola Soy Jorge 
 
  Estudiante de programación  
  Me gusta desarrollar proyectos y aprender nuevas tecnologías.
